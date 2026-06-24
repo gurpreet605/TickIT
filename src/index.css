@@ -7,3 +7,8 @@ body {
   --tw-bg-opacity: 1;
   background-color: rgb(138, 118, 228);
 }
+
+body{
+  background-image: url(/tickIt.png.jpeg);
+  background-size: 100vh;
+}
